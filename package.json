@@ -70,9 +70,8 @@
     "jsdom": "15.1.1",
     "koa-connect": "2.0.1",
     "mini-css-extract-plugin": "0.8.0",
-    "node-sass": "4.14.1",
     "npm-check-updates": "3.1.24",
-    "optimize-css-assets-webpack-plugin": "5.0.3",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "prettier": "2.2.1",
     "pretty-quick": "1.11.1",
     "react-hot-loader": "4.13.0",
@@ -85,7 +84,7 @@
     "url-loader": "4.1.1",
     "webpack": "4.41.0",
     "webpack-cli": "3.3.9",
-    "webpack-dev-server": "3.11.2",
+    "webpack-dev-server": "^3.11.3",
     "webpack-merge": "4.2.2"
   }
 }
